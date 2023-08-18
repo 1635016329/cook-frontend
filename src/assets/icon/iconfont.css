@@ -1,0 +1,173 @@
+@font-face {
+  font-family: "my-icon"; /* Project id  */
+  src: url('./iconfont.ttf') format('truetype');
+}
+
+.my-icon {
+  font-family: "my-icon" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.my-icon-appreciate:before {
+  content: "\e644";
+}
+
+.my-icon-close:before {
+  content: "\e646";
+}
+
+.my-icon-edit:before {
+  content: "\e649";
+}
+
+.my-icon-favorfill:before {
+  content: "\e64b";
+}
+
+.my-icon-favor:before {
+  content: "\e64c";
+}
+
+.my-icon-search:before {
+  content: "\e65c";
+}
+
+.my-icon-camerafill:before {
+  content: "\e664";
+}
+
+.my-icon-commentfill:before {
+  content: "\e666";
+}
+
+.my-icon-comment:before {
+  content: "\e667";
+}
+
+.my-icon-likefill:before {
+  content: "\e668";
+}
+
+.my-icon-like:before {
+  content: "\e669";
+}
+
+.my-icon-top:before {
+  content: "\e69e";
+}
+
+.my-icon-deletefill:before {
+  content: "\e6a6";
+}
+
+.my-icon-delete:before {
+  content: "\e6b4";
+}
+
+.my-icon-homefill:before {
+  content: "\e6bb";
+}
+
+.my-icon-message:before {
+  content: "\e6bc";
+}
+
+.my-icon-upload:before {
+  content: "\e75d";
+}
+
+.my-icon-writefill:before {
+  content: "\e760";
+}
+
+.my-icon-write:before {
+  content: "\e761";
+}
+
+.my-icon-add1:before {
+  content: "\e767";
+}
+
+.my-icon-messagefill:before {
+  content: "\e779";
+}
+
+.my-icon-my:before {
+  content: "\e78b";
+}
+
+.my-icon-myfill:before {
+  content: "\e78c";
+}
+
+.my-icon-home_light:before {
+  content: "\e7d5";
+}
+
+.my-icon-home_fill_light:before {
+  content: "\e7da";
+}
+
+.my-icon-search_light:before {
+  content: "\e7e0";
+}
+
+.my-icon-message_light:before {
+  content: "\e7e3";
+}
+
+.my-icon-friend_add_light:before {
+  content: "\e7e8";
+}
+
+.my-icon-edit_light:before {
+  content: "\e7e9";
+}
+
+.my-icon-camera_light:before {
+  content: "\e7ea";
+}
+
+.my-icon-appreciate_light:before {
+  content: "\e7f0";
+}
+
+.my-icon-appreciate_fill_light:before {
+  content: "\e7f2";
+}
+
+.my-icon-more_android_light:before {
+  content: "\e7f5";
+}
+
+.my-icon-more_light:before {
+  content: "\e7f7";
+}
+
+.my-icon-message_fill_light:before {
+  content: "\e803";
+}
+
+.my-icon-lishi:before {
+  content: "\e601";
+}
+
+.my-icon-fenlei:before {
+  content: "\e610";
+}
+
+.my-icon-ring:before {
+  content: "\e62f";
+}
+
+.my-icon-comment1:before {
+  content: "\e7f8";
+}
+
+.my-icon-camera:before {
+  content: "\e764";
+}
+
